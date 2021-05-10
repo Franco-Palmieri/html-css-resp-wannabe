@@ -78,10 +78,16 @@ img {
     margin: 0;
   }
   .row{
-    margin-top: 10px;
+    margin-top: 5px;
+    padding: 20px;
+    font-size: 25px;
   }
+  #lezioni .row{
+    margin-top: 0;
+  }
+  
   #lezioni .row, #why .row{
-    background-color: rgb(206, 205, 133);
+    background-color: rgb(195, 243, 255);
   }
 
   #lezioni .row>.left, #lezioni .row>.right{
@@ -89,6 +95,7 @@ img {
   }
   #steps .row>.left, #steps .row>.central, #steps .row>.right{
     width: 100%;
+    margin-top: 10px;
   }
   
 }
