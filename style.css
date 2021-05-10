@@ -80,7 +80,8 @@ img {
   .row{
     margin-top: 5px;
     padding: 20px;
-    font-size: 28px;
+    font-size: 20px;
+    width: auto;
   }
   #lezioni .row{
     margin-top: 0;
