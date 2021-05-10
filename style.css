@@ -89,6 +89,9 @@ img {
   #lezioni .row, #why .row{
     background-color: rgb(195, 243, 255);
   }
+  #steps{
+    background-color: white;
+  }
 
   #lezioni .row>.left, #lezioni .row>.right{
     width: 100%;
